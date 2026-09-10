@@ -1,4 +1,8 @@
-<br>
+## Parcours francais.md.
+
+
+
+Une lecture guidee des precompiles Base est disponible dans docs/fr/README<br>
 <br>
 <p align="center">
   <a href="https://base.org" target="_blank" rel="noopener noreferrer">
